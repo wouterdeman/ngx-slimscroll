@@ -1,5 +1,5 @@
 {
-  "name": "ngx-slimscroll",
+  "name": "@wkb/ngx-slimscroll",
   "version": "9.0.0",
   "license": "MIT",
   "main": "./dist/bundles/ngx-slimscroll.umd.js",
